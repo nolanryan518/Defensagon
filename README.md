@@ -1,4 +1,4 @@
-##Defensagon 0.1
+# Defensagon 0.1
 
 Defensagon is a 3D tower defense game. 
 
