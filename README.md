@@ -10,6 +10,8 @@ Background and logos made by Nick Brown.
 
 All other assets created by me with the help of Brackeys Tutorial Course
 
+Scripting made in C#
+
 Project made for a 3D game for CPS 499 - Game Development at University of Dayton
 
 Future Development Plans
